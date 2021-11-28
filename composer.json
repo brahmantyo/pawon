@@ -3,6 +3,7 @@
     "description": "My personal framework",
     "type": "project",
     "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Pawon\\Base\\": "src/"
