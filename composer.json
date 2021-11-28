@@ -15,7 +15,9 @@
             "email": "brahmantyo.adi@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.4.20"
+    },
     "repositories": [
         {
 	    "type": "vcs",
