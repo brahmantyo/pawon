@@ -14,5 +14,11 @@
             "email": "brahmantyo.adi@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "repositories": [
+        {
+	    "type": "vcs",
+	    "url": "https://github.com/brahmantyo/pawon"
+	}
+    ]
 }
